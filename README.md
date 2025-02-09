@@ -3,6 +3,9 @@
 ## Descrição
 Este projeto tem como objetivo explorar as funcionalidades da placa BitDogLab, consolidando os conceitos de comunicação serial, manipulação de LEDs e botões com interrupções. O sistema embarcado desenvolvido permite a interação do usuário por meio do **Serial Monitor**, **botões físicos** e **display OLED SSD1306**, combinando hardware e software para um controle dinâmico e interativo.
 
+## Vídeo de exibição
+https://youtu.be/424PjgMgd_E
+
 ## Componentes Utilizados
 - **Matriz 5x5 de LEDs WS2812** (conectada à GPIO 7)
 - **LED RGB** (pinos conectados às GPIOs 11, 12 e 13)
